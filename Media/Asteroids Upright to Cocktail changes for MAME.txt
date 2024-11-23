@@ -123,6 +123,9 @@ Same basic changes as Asteroids Cocktail except that ground for Start 1 and Star
 
 3. Asteroids Deluxe current machine configuration option "Upright" is actually the "Cabaret" configuration for video because "Upright" cabs had a mirror.  This requires inverted X-axis video so the reflection of the monitor is in the correct orientation.
 
+If you choose to leave this as-is to avoid false "bug" reports about reversed text, I'm pretty sure users can reverse the X-axis in MAME to use it in an original mirror cab, but maybe you could add a note somewhere in the source code referring to the related info on "4 Asteroids Deluxe Cocktail Schematic.png".
+
+
     References:
 "4 Asteroids Deluxe Cocktail Schematic.png"
 "5 Asteroids Deluxe Upright (Mirror) and Cabaret (No Mirror).png"

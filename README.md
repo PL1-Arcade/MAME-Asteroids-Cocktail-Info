@@ -8,3 +8,15 @@ Current Machine Config "Upright" for Asteroids Deluxe is actually the configurat
 The text file describes what changes need to be made to MAME and why.  It refers to the color-coded schematics and has links to the high-quality, easy-to-read original schematics.
 
 LMK if there's anything I can do to help.
+
+----------------------------------------------------------------------
+
+![Asteroids Upright Schematic](Media/1-Asteroids-Upright-Schematic.png)
+
+![Asteroids Cocktail Schematic](Media/2-Asteroids-Cocktail-Schematic.png)
+
+![Asteroids Deluxe Upright Schematic](Media/3-Asteroids-Deluxe-Upright-Schematic.png)
+
+![Asteroids Deluxe Cocktail Schematic](Media/4-Asteroids-Deluxe-Cocktail-Schematic.png)
+
+![Asteroids Deluxe Cabinets](Media/5-Asteroids-Deluxe-Upright-(Mirror)-and-Cabaret-(No-Mirror).png)

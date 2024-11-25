@@ -7,6 +7,8 @@ Current Machine Config "Upright" for Asteroids Deluxe is actually the configurat
 
 The text file describes what changes need to be made to MAME and why.  It refers to the color-coded schematics and has links to the high-quality, easy-to-read original schematics.
 
+The info was developed in this thread.  https://forum.arcadecontrols.com/index.php/topic,168028.0.html
+
 LMK if there's anything I can do to help.
 
 ----------------------------------------------------------------------

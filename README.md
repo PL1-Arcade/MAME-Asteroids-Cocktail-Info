@@ -22,3 +22,5 @@ LMK if there's anything I can do to help.
 ![Asteroids Deluxe Cocktail Schematic](4-Asteroids-Deluxe-Cocktail-Schematic.png)
 
 ![Asteroids Deluxe Cabinets](5-Asteroids-Deluxe-Upright-(Mirror)-and-Cabaret-(No-Mirror).png)
+
+![Blocking Diodes](Blocking-Diodes.png)

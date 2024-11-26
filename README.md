@@ -31,6 +31,8 @@ There are multiple versions of Asteroids PCBs. Some of them lack the image flipp
 To tell the difference, the upright-only boards have 4066's and TL082's behind the video adjustment pots (4 chips total), while the boards with the flipping circuitry have 4016's, TL081's and TL082's (6 chips total).
 </blockquote>
 
+---------------------------------------------
+
 Which MAME ROMs worked with Asteroids Deluxe cocktail cabinets?
 
 The latest revision "astdelux" (Rev. 3) definitely would have.
@@ -47,10 +49,6 @@ If possible, it would also be a good idea to update the Input menu button labels
 - Button 5 (Hyperspace/Shield)
 
 -----------------------------------------------
-
-LMK if there's anything more I can do to help.
-
-----------------------------------------------------------------------
 
 ![Asteroids Upright Schematic](1-Asteroids-Upright-Schematic.png)
 

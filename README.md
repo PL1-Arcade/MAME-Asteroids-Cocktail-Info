@@ -30,6 +30,8 @@ There are multiple versions of Asteroids PCBs. Some of them lack the image flipp
 To tell the difference, the upright-only boards have 4066's and TL082's behind the video adjustment pots (4 chips total), while the boards with the flipping circuitry have 4016's, TL081's and TL082's (6 chips total).
 </blockquote>
 
+**NOTE: MAME currently supports Machine Config Cocktail for asteroid, asteroid1, and asteroid2**
+
 ---------------------------------------------
 
 Which MAME ROMs worked with Asteroids Deluxe cocktail cabinets?
@@ -38,6 +40,8 @@ Which MAME ROMs worked with Asteroids Deluxe cocktail cabinets?
 The latest revision "astdelux" (Rev. 3) definitely would have.
 
 Not sure about "astdelux2" or "astdelux1", but it is likely that they did due to the release date.  More research is needed to confirm.
+
+**NOTE: MAME currently supports Machine Config Cocktail for astdelux, astdelux1, and astdelux2**
 
 ----------------------------------------------
 
@@ -52,6 +56,8 @@ It might be a good idea to update the Input menu button labels.
 - Button 3 (Fire)
 - Button 4 (Thrust)
 - Button 5 (Hyperspace/Shield)
+
+When in Machine Config Cocktail, "astdelux1" initializes the screen upside-down on system start or F3 reset.  Starting a game fixes it until you F3 reset or exit the game and restart it.  This possible bug does not happen in "astdelux" or "astdelux2".  Need to confirm if this happened on actual hardware. (I think I remember reading about someone having this problem, but don't remember where or in what context.)
 
 -----------------------------------------------
 

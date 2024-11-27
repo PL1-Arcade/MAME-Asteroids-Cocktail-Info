@@ -3,8 +3,6 @@ TL;DR summary:
 
 MAME currently doesn't have separate P2 controls for Asteroids and Asteroids Deluxe.  It needs P2 inputs added to input menu, 10 blocking diodes added, and the ground source for the inputs changed.
 
-Current Machine Config "Upright" for Asteroids Deluxe is actually the configuration for the Cabaret (non-mirrored) version of the cab.  Not sure what Machine Config names should be used for the two upright versions of the cab -- Upright (mirror cab) and Cabaret. (non-mirror cab)
-
 The text file describes what changes need to be made to MAME and why.  It refers to the color-coded schematics and has links to the high-quality, easy-to-read original schematics.
 
 The info was developed in this thread.  https://forum.arcadecontrols.com/index.php/topic,168028.0.html
@@ -12,6 +10,7 @@ The info was developed in this thread.  https://forum.arcadecontrols.com/index.p
 ------------------------------------------
 
 Which MAME ROMs worked with Asteroids cocktail cabinets:
+--------------------------------------------------------
 
 https://www.ukvac.com/forum/threads/asteroids-cocktail-resets-and-flicker.81215/
 
@@ -34,6 +33,7 @@ To tell the difference, the upright-only boards have 4066's and TL082's behind t
 ---------------------------------------------
 
 Which MAME ROMs worked with Asteroids Deluxe cocktail cabinets?
+---------------------------------------------------------------
 
 The latest revision "astdelux" (Rev. 3) definitely would have.
 
@@ -41,7 +41,12 @@ Not sure about "astdelux2" or "astdelux1", but it is likely that they did due to
 
 ----------------------------------------------
 
-If possible, it would also be a good idea to update the Input menu button labels.
+Other suggested changes
+-----------------------
+
+Current Machine Config "Upright" for Asteroids Deluxe is actually the configuration for the Cabaret (non-mirrored) version of the cab.  Not sure what Machine Config names should be used for the two upright versions of the cab -- Upright (mirror cab) and Cabaret. (non-mirror cab)
+
+It might be a good idea to update the Input menu button labels.
 - Button 1 (Left)
 - Button 2 (Right)
 - Button 3 (Fire)

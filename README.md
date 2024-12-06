@@ -19,7 +19,7 @@ I have a version -04 PCB with 035143/44/45-02 ROM chips.
 
 These chip numbers correspond to `asteroid2` ROM numbers, so that confirms that the `asteroid` (Rev. 4) and `asteroid2` (Rev. 2) ROMs supported cocktail switching. NOTE: There is no Rev. 3 ROMset.
 
-I haven't found anything showing that the `asteroid1` (Rev. 1) ROMs could support cocktail switching, but early PCB versions definitely did not.
+<s>I haven't found anything showing that the `asteroid1` (Rev. 1) ROMs could support cocktail switching</s>, but early PCB versions definitely did not.
 
 https://forums.arcade-museum.com/threads/wtb-asteroids-cocktail-pcb.395749/
 
@@ -28,6 +28,8 @@ There are multiple versions of Asteroids PCBs. Some of them lack the image flipp
 
 To tell the difference, the upright-only boards have 4066's and TL082's behind the video adjustment pots (4 chips total), while the boards with the flipping circuitry have 4016's, TL081's and TL082's (6 chips total).
 </blockquote>
+
+On `6-Asteroids-Cocktail-Schematic2.png`, the ROM numbers listed match the MAME `asteroid1` set so that confirms that all three Asteroids ROM sets `asteroid`, `asteroid1`, and `asteroid2` were used in cocktail cabs.
 
 > [!NOTE]
 MAME currently supports Machine Config `Cocktail` for `asteroid`, `asteroid1`, and `asteroid2`
@@ -38,7 +40,9 @@ MAME currently supports Machine Config `Cocktail` for `asteroid`, `asteroid1`, a
 
 The latest revision `astdelux` (Rev. 3) definitely would have.
 
-Not sure about `astdelux2` or `astdelux1`, but it is likely that they did due to the release date.  More research is needed to confirm.
+<s>Not sure about `astdelux2` or `astdelux1`, but it is likely that they did due to the release date.  More research is needed to confirm.</s>
+
+On `7-Asteroids-Deluxe-Cocktail-Schematic2.png`, the ROM numbers listed match the MAME `astdelux1` set so that confirms that all three Asteroids Deluxe ROM sets `astdelux`, `astdelux1`, and `astdelux2` were used in cocktail cabs.
 
 > [!NOTE]
 MAME currently supports Machine Config `Cocktail` for `astdelux`, `astdelux1`, and `astdelux2`
@@ -69,5 +73,9 @@ When in Machine Config Cocktail, `astdelux1` initializes the screen upside-down 
 ![Asteroids Deluxe Cocktail Schematic](4-Asteroids-Deluxe-Cocktail-Schematic.png)
 
 ![Asteroids Deluxe Cabinets](5-Asteroids-Deluxe-Upright-(Mirror)-and-Cabaret-(No-Mirror).png)
+
+![Asteroids Cocktail Schematic 2](6-Asteroids-Cocktail-Schematic2.png)
+
+![Asteroids Deluxe Cocktail Schematic 2](7-Asteroids-Deluxe-Cocktail-Schematic2.png)
 
 ![Blocking Diodes](Blocking-Diodes.png)
